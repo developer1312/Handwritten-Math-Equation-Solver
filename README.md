@@ -14,8 +14,8 @@ This is a web application that can solve handwritten math equations from an uplo
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/developer1312/Handwritten-Math-Equation-Solver.git
+    cd Handwritten-Math-Equation-Solver
     ```
 
 2.  **Create a virtual environment and install the dependencies:**
